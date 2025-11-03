@@ -1,0 +1,9 @@
+langchain-core
+langsmith
+langgraph
+pydantic
+langchain
+langchain-community
+python-dotenv
+arxiv
+wikipedia
